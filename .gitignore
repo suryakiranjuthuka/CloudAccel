@@ -1,0 +1,25 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore bower_components folder
+bower_components
+
+# Ignore temporary cache
+.tmp
+
+# Ignore build directory
+dist
+
+# Ignore SASS config files
+.sass-cache
+
+
+
+# Ignore all text files
+# *.txt
+
+# Ignore files related to API keys
+# .env
